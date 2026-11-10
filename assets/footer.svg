@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="120" viewBox="0 0 900 120">
+  <defs><linearGradient id="w" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#22D3EE"/><stop offset="50%" stop-color="#6366F1"/><stop offset="100%" stop-color="#A78BFA"/></linearGradient></defs>
+  <path fill="url(#w)" opacity=".35"><animate attributeName="d" dur="12s" repeatCount="indefinite" calcMode="spline" keyTimes="0;.5;1" keySplines=".45 0 .55 1;.45 0 .55 1" values="M0 40Q225 0 450 35T900 30V120H0Z;M0 25Q225 60 450 25T900 45V120H0Z;M0 40Q225 0 450 35T900 30V120H0Z"/></path>
+  <path fill="url(#w)" opacity=".55"><animate attributeName="d" dur="9s" repeatCount="indefinite" calcMode="spline" keyTimes="0;.5;1" keySplines=".45 0 .55 1;.45 0 .55 1" values="M0 65Q225 45 450 70T900 60V120H0Z;M0 72Q225 90 450 60T900 75V120H0Z;M0 65Q225 45 450 70T900 60V120H0Z"/></path>
+  <path fill="#0b1230" opacity=".9"><animate attributeName="d" dur="7s" repeatCount="indefinite" calcMode="spline" keyTimes="0;.5;1" keySplines=".45 0 .55 1;.45 0 .55 1" values="M0 95Q225 80 450 98T900 90V120H0Z;M0 90Q225 105 450 88T900 98V120H0Z;M0 95Q225 80 450 98T900 90V120H0Z"/></path>
+  <text x="450" y="108" text-anchor="middle" style="font:600 13px 'Fira Code',Consolas,monospace;fill:#c7d2fe;letter-spacing:1px">thanks for visiting  ·  let's build something</text>
+</svg>
