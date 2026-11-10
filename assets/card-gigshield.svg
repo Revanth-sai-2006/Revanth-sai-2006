@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="210" viewBox="0 0 440 210">
+<defs><clipPath id="cc"><rect x=".5" y=".5" width="439" height="209" rx="14"/></clipPath></defs>
+<rect x=".5" y=".5" width="439" height="209" rx="14" fill="#0f1714" stroke="#1f2e28"/>
+<rect x="0" y="0" width="5" height="210" fill="#FBBF24" clip-path="url(#cc)"/>
+<text x="24" y="34" style="font-family:'Segoe UI',Inter,Helvetica,Arial,sans-serif;font-size:19px;font-weight:700;fill:#e7f5ee">GigShield</text>
+<text x="24" y="54" style="font-family:'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace;font-size:11px;fill:#FBBF24">fraud detection · real-time alerts</text>
+<circle cx="370" cy="29" r="4" fill="#8aa59a"></circle>
+<text x="380" y="33" style="font-family:'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace;font-size:11px;fill:#8aa59a">repo</text>
+<text x="24" y="82" style="font-family:'Segoe UI',Inter,Helvetica,Arial,sans-serif;font-size:13px;fill:#8aa59a">Anomaly + behaviour models flag fraud</text>
+<text x="24" y="101" style="font-family:'Segoe UI',Inter,Helvetica,Arial,sans-serif;font-size:13px;fill:#8aa59a">for gig platforms, with live alerts.</text>
+<text x="24" y="136" style="font-family:'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace;font-size:11px;fill:#8aa59a">precision</text>
+<text x="416" y="136" text-anchor="end" style="font-family:'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace;font-size:12px;font-weight:700;fill:#FBBF24">~92%</text>
+<rect x="24" y="144" width="392" height="6" rx="3" fill="#1f2e28"/>
+<rect x="24" y="144" width="0" height="6" rx="3" fill="#FBBF24"><animate attributeName="width" from="0" to="361" dur="1.8s" begin=".3s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines=".2 .8 .2 1"/></rect>
+<rect x="24" y="172" width="42" height="22" rx="11" fill="none" stroke="#1f2e28"/><text x="45" y="187" text-anchor="middle" style="font-family:'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace;font-size:10.5px;fill:#e7f5ee">MERN</text>
+<rect x="72.4" y="172" width="95" height="22" rx="11" fill="none" stroke="#1f2e28"/><text x="120" y="187" text-anchor="middle" style="font-family:'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace;font-size:10.5px;fill:#e7f5ee">scikit-learn</text>
+<rect x="173.6" y="172" width="75" height="22" rx="11" fill="none" stroke="#1f2e28"/><text x="211" y="187" text-anchor="middle" style="font-family:'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace;font-size:10.5px;fill:#e7f5ee">WebSocket</text>
+<rect x="255.0" y="172" width="36" height="22" rx="11" fill="none" stroke="#1f2e28"/><text x="273" y="187" text-anchor="middle" style="font-family:'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace;font-size:10.5px;fill:#e7f5ee">AWS</text>
+</svg>

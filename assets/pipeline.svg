@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="250" viewBox="0 0 900 250">
+<rect width="900" height="250" rx="18" fill="#0a0f0d" stroke="#1f2e28"/>
+<text x="24" y="30" style="font-family:'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace;font-size:12px;fill:#8aa59a">// how I work — every project runs through the same pipeline</text>
+<rect x="24" y="50" width="186" height="170" rx="12" fill="#0f1714" stroke="#22D3EE" stroke-opacity=".55"><animate attributeName="stroke-opacity" values=".35;1;.35" dur="4s" begin="0s" repeatCount="indefinite"/></rect>
+<text x="40" y="80" style="font-family:'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace;font-size:14px;font-weight:700;fill:#22D3EE">01 INGEST</text>
+<text x="40" y="100" style="font-family:'Segoe UI',Inter,Helvetica,Arial,sans-serif;font-size:12px;fill:#8aa59a">collect &amp; clean</text>
+<line x1="40" y1="114" x2="194" y2="114" stroke="#1f2e28"/>
+<text x="40" y="142" style="font-family:'Segoe UI',Inter,Helvetica,Arial,sans-serif;font-size:13px;fill:#e7f5ee"><tspan fill="#22D3EE">▸ </tspan>Python · SQL</text>
+<text x="40" y="168" style="font-family:'Segoe UI',Inter,Helvetica,Arial,sans-serif;font-size:13px;fill:#e7f5ee"><tspan fill="#22D3EE">▸ </tspan>REST APIs</text>
+<text x="40" y="194" style="font-family:'Segoe UI',Inter,Helvetica,Arial,sans-serif;font-size:13px;fill:#e7f5ee"><tspan fill="#22D3EE">▸ </tspan>PostgreSQL · MongoDB</text>
+<line x1="213" y1="135.0" x2="237" y2="135.0" stroke="#8aa59a" stroke-width="2" stroke-dasharray="4 4"><animate attributeName="stroke-dashoffset" from="8" to="0" dur=".6s" repeatCount="indefinite"/></line>
+<path d="M234,130.0 L240,135.0 L234,140.0" fill="none" stroke="#8aa59a" stroke-width="2"/>
+<rect x="242" y="50" width="186" height="170" rx="12" fill="#0f1714" stroke="#34D399" stroke-opacity=".55"><animate attributeName="stroke-opacity" values=".35;1;.35" dur="4s" begin="1s" repeatCount="indefinite"/></rect>
+<text x="258" y="80" style="font-family:'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace;font-size:14px;font-weight:700;fill:#34D399">02 TRANSFORM</text>
+<text x="258" y="100" style="font-family:'Segoe UI',Inter,Helvetica,Arial,sans-serif;font-size:12px;fill:#8aa59a">shape the data</text>
+<line x1="258" y1="114" x2="412" y2="114" stroke="#1f2e28"/>
+<text x="258" y="142" style="font-family:'Segoe UI',Inter,Helvetica,Arial,sans-serif;font-size:13px;fill:#e7f5ee"><tspan fill="#34D399">▸ </tspan>Pandas · GeoPandas</text>
+<text x="258" y="168" style="font-family:'Segoe UI',Inter,Helvetica,Arial,sans-serif;font-size:13px;fill:#e7f5ee"><tspan fill="#34D399">▸ </tspan>ETL pipelines</text>
+<text x="258" y="194" style="font-family:'Segoe UI',Inter,Helvetica,Arial,sans-serif;font-size:13px;fill:#e7f5ee"><tspan fill="#34D399">▸ </tspan>FAISS · ChromaDB</text>
+<line x1="431" y1="135.0" x2="455" y2="135.0" stroke="#8aa59a" stroke-width="2" stroke-dasharray="4 4"><animate attributeName="stroke-dashoffset" from="8" to="0" dur=".6s" repeatCount="indefinite"/></line>
+<path d="M452,130.0 L458,135.0 L452,140.0" fill="none" stroke="#8aa59a" stroke-width="2"/>
+<rect x="460" y="50" width="186" height="170" rx="12" fill="#0f1714" stroke="#FBBF24" stroke-opacity=".55"><animate attributeName="stroke-opacity" values=".35;1;.35" dur="4s" begin="2s" repeatCount="indefinite"/></rect>
+<text x="476" y="80" style="font-family:'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace;font-size:14px;font-weight:700;fill:#FBBF24">03 TRAIN</text>
+<text x="476" y="100" style="font-family:'Segoe UI',Inter,Helvetica,Arial,sans-serif;font-size:12px;fill:#8aa59a">learn from it</text>
+<line x1="476" y1="114" x2="630" y2="114" stroke="#1f2e28"/>
+<text x="476" y="142" style="font-family:'Segoe UI',Inter,Helvetica,Arial,sans-serif;font-size:13px;fill:#e7f5ee"><tspan fill="#FBBF24">▸ </tspan>TensorFlow · XGBoost</text>
+<text x="476" y="168" style="font-family:'Segoe UI',Inter,Helvetica,Arial,sans-serif;font-size:13px;fill:#e7f5ee"><tspan fill="#FBBF24">▸ </tspan>HuggingFace · RAG</text>
+<text x="476" y="194" style="font-family:'Segoe UI',Inter,Helvetica,Arial,sans-serif;font-size:13px;fill:#e7f5ee"><tspan fill="#FBBF24">▸ </tspan>LangChain · Gemini</text>
+<line x1="649" y1="135.0" x2="673" y2="135.0" stroke="#8aa59a" stroke-width="2" stroke-dasharray="4 4"><animate attributeName="stroke-dashoffset" from="8" to="0" dur=".6s" repeatCount="indefinite"/></line>
+<path d="M670,130.0 L676,135.0 L670,140.0" fill="none" stroke="#8aa59a" stroke-width="2"/>
+<rect x="678" y="50" width="186" height="170" rx="12" fill="#0f1714" stroke="#a78bfa" stroke-opacity=".55"><animate attributeName="stroke-opacity" values=".35;1;.35" dur="4s" begin="3s" repeatCount="indefinite"/></rect>
+<text x="694" y="80" style="font-family:'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace;font-size:14px;font-weight:700;fill:#a78bfa">04 SERVE</text>
+<text x="694" y="100" style="font-family:'Segoe UI',Inter,Helvetica,Arial,sans-serif;font-size:12px;fill:#8aa59a">ship it to users</text>
+<line x1="694" y1="114" x2="848" y2="114" stroke="#1f2e28"/>
+<text x="694" y="142" style="font-family:'Segoe UI',Inter,Helvetica,Arial,sans-serif;font-size:13px;fill:#e7f5ee"><tspan fill="#a78bfa">▸ </tspan>Next.js · React</text>
+<text x="694" y="168" style="font-family:'Segoe UI',Inter,Helvetica,Arial,sans-serif;font-size:13px;fill:#e7f5ee"><tspan fill="#a78bfa">▸ </tspan>Spring Boot · FastAPI</text>
+<text x="694" y="194" style="font-family:'Segoe UI',Inter,Helvetica,Arial,sans-serif;font-size:13px;fill:#e7f5ee"><tspan fill="#a78bfa">▸ </tspan>Docker · AWS · Actions</text>
+<circle r="5" fill="#FBBF24"><animateMotion dur="6s" repeatCount="indefinite" path="M24,50 L864,50"/><animate attributeName="opacity" values="0;1;1;0" dur="6s" repeatCount="indefinite"/></circle>
+</svg>
